@@ -74,7 +74,7 @@ function carousel() {
 // compte a rebours
 
 jQuery(function($) {
-  var launch = new Date(2019, 4, 12, 12, 00, 00);
+  var launch = new Date(2020, 3, 1, 12, 00, 00);
 
   var days = $("#days");
   var hours = $("#hours");
